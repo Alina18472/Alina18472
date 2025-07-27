@@ -1,4 +1,4 @@
-![Header](https://github.com/Alina18472/Alina18472/blob/main/assets/working%20dcat.png)
+![Header](https://github.com/Alina18472/Alina18472/blob/main/assets/working%20cat.png)
 
 Обо мне
 
