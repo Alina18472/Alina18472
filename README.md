@@ -1,7 +1,7 @@
 Header
 
-About me
+Обо мне
 
-Languages and Tools
+Языки и Инструменты
 
-Follow Me
+Контакты
