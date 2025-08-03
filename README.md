@@ -22,12 +22,17 @@
 - [Создание макетов в фигме](https://www.figma.com/design/SPGHjxzZOZ4DJ2lhqtif3Y/Untitled?node-id=0-1&t=epf2yAmVrz8GnvkK-1)
 
 
+#### Пройдено:
+- Курсы по тестированию:
+    - ["Тестирование ПО с нуля. Теория + Практика. Уровень BASIC" на Stepik](https://stepik.org/cert/2927753)
+    - ["Тестирование ПО: Postman для тестирования API"на Stepik](https://stepik.org/cert/2550813)
 
+      
 #### Что изучаю сейчас:  
 - Курсы по тестированию:
-    - "Тестирование ПО с нуля. Теория + Практика. Уровень BASIC" на Stepik
     - "Интерактивный тренажер по SQL" на Stepik
-    - "Postman-ниндзя: c нуля до автотестов" на Stepik
+    - "Docker для начинающих + практический опыт" на Stepik
+   
     
 
 #### Soft скиллы:
