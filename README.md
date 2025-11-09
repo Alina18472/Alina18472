@@ -42,5 +42,5 @@
 - Умение работать в команде
 
 #### Как связаться:  
-- Telegram: [[@Alina18472](https://t.me/Alina18472)]  
+- Telegram: [@Alina18472](https://t.me/Alina18472)
 - Почта: aprel2004alina@mail.ru 
