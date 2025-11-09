@@ -43,4 +43,4 @@
 
 #### Как связаться:  
 - Telegram: [[@Alina18472](https://t.me/Alina18472)]  
-- Почта: alina_shaposhnikova18472@mail.ru 
+- Почта: aprel2004alina@mail.ru 
